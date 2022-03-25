@@ -66,7 +66,7 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (x == y){
+  if (x === y){
   return true;
   }
   else{
@@ -80,7 +80,7 @@ function tienenMismaLongitud(str1, str2) {
   // Tu código:
   var longitud1 = str1.length;
   var longitud2 = str2.length;
-  if (longitud1 == longitud2){
+  if (longitud1 === longitud2){
     return true;
   } else{
     return false;
@@ -126,7 +126,7 @@ function esPar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   
-  if (num % 2 == 0){
+  if (num % 2 === 0){
     return true; 
   }  else {
     return false;
@@ -138,7 +138,7 @@ function esImpar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   
-    if(num%2==1){
+    if(num % 2 == 1) {
       return true;
     } else {
       return false;
