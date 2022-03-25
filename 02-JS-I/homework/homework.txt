@@ -1,4 +1,4 @@
-Variables
+Vagitriables
 	* Strings: son cadenas o hilos de caracteres que suelen ser palabras y se escriben entre comillas.
 	* Funciones (argumentos, `return`): son un conjunto de instrucciones que realizan tareas.
 	* Declaraciones `if`: se usa para tomar desiciones, se declaran dos valores que pueden ser true o false y ejecuta la pieza de código siguiente siguiendo la logica.
