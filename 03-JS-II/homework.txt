@@ -1,0 +1,5 @@
+Definiciones:
+for: es un blucle que va a evaluar una y otra vez una expresion hasta que retorne lo que estamos buscando.
+&&: operador Y, devulve true si ambas expresiones son verdaderas, de lo contrario retorna false.
+||: operador O, devuelve true si una o ambas expresiones son verdaderas.
+!: operador NOT (no), acepta un solo argumento, convierte el argumento a tipo booleano (true o false) y retorna el valor contrario.  
