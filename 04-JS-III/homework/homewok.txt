@@ -1,0 +1,3 @@
+Definicion:
+Arrays: Es una matriz o vector que contiene una serie de elementos o datos del mismo tipo. 
+También se puede ver como una serie o conjuntos de elementos ordenados en fila. 
